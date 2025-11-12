@@ -1,6 +1,5 @@
-
 import React from 'react';
-import { ResultHistoryItem } from '../types';
+import { ResultHistoryItem } from '../types.ts';
 
 interface ResultsProps {
   score: number;

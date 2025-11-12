@@ -1,9 +1,8 @@
-
 import React, { useState, useEffect } from 'react';
-import { QUESTIONS } from './constants';
-import { ResultHistoryItem } from './types';
-import Quiz from './components/Quiz';
-import Results from './components/Results';
+import { QUESTIONS } from './constants.ts';
+import { ResultHistoryItem } from './types.ts';
+import Quiz from './components/Quiz.tsx';
+import Results from './components/Results.tsx';
 
 const App: React.FC = () => {
   const [answers, setAnswers] = useState<number[]>([]);

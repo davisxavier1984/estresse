@@ -1,5 +1,4 @@
-
-import { Question, Option } from './types';
+import { Question, Option } from './types.ts';
 
 export const QUESTIONS: Question[] = [
   { id: 1, text: 'Você se sente cansado(a) mesmo após uma boa noite de sono?' },
