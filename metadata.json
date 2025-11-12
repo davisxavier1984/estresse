@@ -1,0 +1,5 @@
+{
+  "name": "Teste de Estresse Interativo",
+  "description": "Uma aplicação web interativa para avaliar o nível de estresse com base em sintomas físicos, emocionais e comportamentais, oferecendo resultados claros e dicas de autocuidado.",
+  "requestFramePermissions": []
+}
