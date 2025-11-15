@@ -1,6 +1,6 @@
 import React from 'react';
-import { QUESTIONS, OPTIONS } from '../constants.ts';
-import { AnswerValue } from '../types.ts';
+import { QUESTIONS, OPTIONS } from '../constants';
+import { AnswerValue } from '../types';
 
 interface QuizProps {
   currentQuestionIndex: number;
